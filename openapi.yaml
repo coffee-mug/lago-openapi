@@ -9935,6 +9935,7 @@ components:
                 - BillableMetric
                 - Subscription
                 - WalletTransaction
+                - Commitment
               description: The type of the fee item. Possible values are `AddOn`, `BillableMetric`, `WalletTransaction`, `Subscription` or `Commitment`.
               example: Subscription
             grouped_by:
